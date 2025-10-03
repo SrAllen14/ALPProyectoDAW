@@ -1,0 +1,6 @@
+[Wed Oct 01 12:19:12.265982 2025] [core:alert] [pid 11293:tid 138777271006912] [client 10.199.10.210:59189] /var/www/html/.htaccess: <Directory not allowed here
+[Wed Oct 01 12:19:35.806200 2025] [core:alert] [pid 13639:tid 127193735575232] [client 10.199.10.210:59195] /var/www/html/.htaccess: <Directory not allowed here
+[Wed Oct 01 12:19:38.655534 2025] [core:alert] [pid 13639:tid 127193636136640] [client 10.199.10.210:59196] /var/www/html/.htaccess: <Directory not allowed here
+[Wed Oct 01 12:19:46.887151 2025] [core:alert] [pid 13639:tid 127193627743936] [client 10.199.10.210:59197] /var/www/html/.htaccess: <Directory not allowed here
+[Wed Oct 01 12:20:01.502433 2025] [core:alert] [pid 13637:tid 127193735575232] [client 10.199.10.210:59198] /var/www/html/.htaccess: <Directory not allowed here
+[Wed Oct 01 12:20:09.677860 2025] [core:alert] [pid 13639:tid 127193610958528] [client 10.199.10.210:59199] /var/www/html/.htaccess: <Directory not allowed here
