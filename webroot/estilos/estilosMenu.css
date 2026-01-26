@@ -60,6 +60,11 @@ ul {
     padding: 10px;
 }
 
+.especial a{
+    background-color: skyblue;
+    color: white;
+}
+
 @media(max-width: 600px){
     .menu{
         padding: 10px;
